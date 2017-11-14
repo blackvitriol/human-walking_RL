@@ -1,3 +1,5 @@
+My work on NIPS2017 challenge. This challenge helped me learn about humanoid-robot motion planning in context of human physiological actuation. Using reinforcement learning algorithms, the skeleton in the simulator is made to walk by exciting it's muscles.
+
 # NIPS2017: Learning to run
 
 This repository contains software required for participation in the NIPS 2017 Challenge: Learning to Run. See more details about the challenge [here](https://www.crowdai.org/challenges/nips-2017-learning-to-run). **Please read about the latest changes and the logistics of the second round [here](https://github.com/stanfordnmbl/osim-rl/tree/master/docs) (last update November 6th).**
